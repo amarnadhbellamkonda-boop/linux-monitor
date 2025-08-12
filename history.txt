@@ -1,0 +1,6 @@
+---- LAST 5 Commands (History) ----
+history -w
+history -w
+history 
+cat ~/.bash_history
+history -a
