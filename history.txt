@@ -4,3 +4,9 @@ history -w
 history 
 cat ~/.bash_history
 history -a
+---- LAST 5 Commands (History) ----
+vi save_system_data.sh 
+history
+history -a
+history
+history -w
