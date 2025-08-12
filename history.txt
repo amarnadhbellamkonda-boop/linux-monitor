@@ -172,3 +172,9 @@ history
 history -a
 history
 history -w
+---- LAST 5 Commands (History) ----
+vi save_system_data.sh 
+history
+history -a
+history
+history -w
