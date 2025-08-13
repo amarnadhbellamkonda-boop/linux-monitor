@@ -700,3 +700,9 @@ cd tasks
 cd linux-monitor/
 ls
 cat history.txt 
+---- LAST 5 Commands (History) ----
+ls
+cd tasks
+cd linux-monitor/
+ls
+cat history.txt 
