@@ -448,3 +448,9 @@ history
 history -a
 history
 history -w
+---- LAST 5 Commands (History) ----
+ls
+cd tasks
+cd linux-monitor/
+ls
+cat history.txt 
