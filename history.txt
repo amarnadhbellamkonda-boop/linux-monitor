@@ -1846,3 +1846,9 @@ ls
 exit
 ssh bsa_aws_2@3.7.55.131
 exit
+---- LAST 5 Commands (History) ----
+ssh bsa_aws_2@3.7.55.131
+ls
+exit
+ssh bsa_aws_2@3.7.55.131
+exit
