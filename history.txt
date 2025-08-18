@@ -1576,3 +1576,9 @@ ssh -i ~/.ssh/id_rsa bsa_aws_2@ec2-13-233-5-130.ap-south-1.compute.amazonaws.com
 cd
 ssh ec2-user@13.233.5.130
 ssh bsa_aws_2@13.233.5.130
+---- LAST 5 Commands (History) ----
+ls
+ssh -i ~/.ssh/id_rsa bsa_aws_2@ec2-13-233-5-130.ap-south-1.compute.amazonaws.com
+cd
+ssh ec2-user@13.233.5.130
+ssh bsa_aws_2@13.233.5.130
