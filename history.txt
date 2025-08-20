@@ -2500,3 +2500,9 @@ cd ~/.ssh
 ls
 cat id_rsa
 ssh bsa_aws_2@43.204.141.58
+---- LAST 5 Commands (History) ----
+ls
+cd ~/.ssh
+ls
+cat id_rsa
+ssh bsa_aws_2@43.204.141.58
