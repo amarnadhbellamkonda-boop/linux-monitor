@@ -1906,3 +1906,9 @@ ls
 pwd
 ls -la
 exit
+---- LAST 5 Commands (History) ----
+ld
+ls
+pwd
+ls -la
+exit
