@@ -3130,3 +3130,9 @@ ssh ec2-user@3.110.101.154
 ssh ec2-user@13.232.140.163
 ssh bsa_aws_online@13.232.140.163
 exit
+---- LAST 5 Commands (History) ----
+exit
+clear
+hostname
+hostname -I
+exit
