@@ -3286,3 +3286,9 @@ clear
 hostname
 hostname -I
 exit
+---- LAST 5 Commands (History) ----
+exit
+clear
+hostname
+hostname -I
+exit
