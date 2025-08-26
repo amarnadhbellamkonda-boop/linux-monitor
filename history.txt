@@ -3700,3 +3700,9 @@ aws configure
 aws s3 lx
 aws s3 ls
 exit
+---- LAST 5 Commands (History) ----
+terraform destroy
+aws configure
+aws s3 lx
+aws s3 ls
+exit
