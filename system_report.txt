@@ -1,7 +1,7 @@
----- Tue Aug 26 16:10:01 IST 2025 ----
+---- Tue Aug 26 16:20:01 IST 2025 ----
 CPU & RAM usage: 
-top - 16:10:01 up  4:15,  1 user,  load average: 0.00, 0.00, 0.00
+top - 16:20:01 up 1 min,  1 user,  load average: 0.00, 0.00, 0.00
 Tasks:  50 total,   1 running,  49 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.8 us,  0.0 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
-MiB Mem :   7814.2 total,   7237.8 free,    392.0 used,    184.4 buff/cache
-MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7268.8 avail Mem 
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :   7814.2 total,   6073.2 free,    390.2 used,   1350.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7271.2 avail Mem 
