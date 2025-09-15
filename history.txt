@@ -3982,3 +3982,9 @@ aws s3 ls --profile bsa_root
 ls
 cat main.tf 
 exit
+---- LAST 5 Commands (History) ----
+terraform apply
+aws s3 ls --profile bsa_root
+ls
+cat main.tf 
+exit
