@@ -4066,3 +4066,9 @@ clear
 ifconfig
 clear
 exit
+---- LAST 5 Commands (History) ----
+claer
+clear
+ifconfig
+clear
+exit
